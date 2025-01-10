@@ -20,3 +20,4 @@ Support and Troubleshooting: Access a wealth of community-contributed knowledge 
 Educational Resources: Explore the educational aspect of this project by delving into articles and resources that explain the significance of ad blocking, the technology behind it, and its impact on online privacy.
 
 Whether you're concerned about online privacy, annoyed by invasive advertisements, or simply eager to learn and tinker with Raspberry Pi technology, the Raspberry Pi AdBlocker repository provides a welcoming and informative hub for creating your own ad-blocking solution. Take back control of your online experience and enjoy a faster, cleaner, and more secure internet with the Raspberry Pi 4 AdBlocker project.
+![image](https://github.com/user-attachments/assets/5645f5a9-81c7-4f7d-b357-f45a415c8f5c)
